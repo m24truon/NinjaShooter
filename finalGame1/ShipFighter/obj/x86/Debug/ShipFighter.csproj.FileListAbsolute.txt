@@ -1,0 +1,397 @@
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\fourbladescollision.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\threebladescollision.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\ShipFighter\bin\WindowsGL\Debug\Content\Audio\track.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\CourierNew.xnb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterScoringAndHUD\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week09\Week09-ShipFighterErrorHandling\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.exe
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.exe
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+D:\Humber\Monogame\Week10\Amrit2015\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\explosion-04.wav
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\raygun-01.wav
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Audio\Sidescroller.wav
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\mathGame\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\Users\marven\Desktop\mathGame\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\Users\marven\Desktop\mathGame\Week13-Demos\Week13-ShipFighterGameState\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Audio\astralWave2.wav
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Audio\deathSound.wav
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Audio\decapacitated.wav
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\castle_backround_0.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\citybackground1.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\endsplashScreen1.jpg
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy2 spritesheet.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v31.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v32.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v33.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v34.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v35.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v36.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy41.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy42.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy43.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyfire1.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\hero11.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\hero12.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\ninjastar1.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\splashScreen.jpg
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe.config
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\ShipFighter.exe
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\ShipFighter.pdb
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\testGame\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\testGame\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\testGame\ShipFighter\obj\x86\Debug\ShipFighter.exe
+C:\Users\marven\Desktop\testGame\ShipFighter\obj\x86\Debug\ShipFighter.pdb
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\NinjaShooter.exe.config
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Audio\astralWave2.wav
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Audio\deathSound.wav
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Audio\decapacitated.wav
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\arkanoidsheet.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\castle_backround_0.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\citybackground1.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\endGameSplash.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\endsplashScreen1.jpg
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy2 spritesheet.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v31.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v32.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v33.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v34.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v35.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy3v36.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy41.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy42.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemy43.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyfire1.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\hero11.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\hero12.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\ninjastar1.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\splashScreen.jpg
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Images\startGameSplash.png
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Content\Fonts\Verdana.xnb
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\NinjaShooter.exe
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\NinjaShooter.pdb
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\finalGame1\ShipFighter\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\finalGame1\ShipFighter\obj\x86\Debug\ShipFighter.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\finalGame1\ShipFighter\obj\x86\Debug\NinjaShooter.exe
+C:\Users\marven\Desktop\finalGame1\ShipFighter\obj\x86\Debug\NinjaShooter.pdb

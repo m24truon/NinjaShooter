@@ -1,0 +1,167 @@
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week02\Lab04-MonoGameDodgeBlade4\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithInput\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week03\Week03-ShipFighterWithCollisions\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\assignments\Assignment 1 - Miner Arcade\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week05\Timed Lab 7 - Assignment 1\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week07\Week07-ShipFighterAnimationV3\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterScrollingBackground - Complete\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSound - SoundPlayer\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week08\Week08-ShipFighterSoundEffects\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+D:\Humber\Monogame\Week10\Lynda\Week 10\Week10-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\Monogame Course\Week13-Demos\Week13-ShipFighterGameState\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\testGame\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\obj\x86\Debug\SpriteClasses.csprojResolveAssemblyReference.cache
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\obj\x86\Debug\SpriteClasses.dll
+C:\Users\marven\Desktop\Monogame Course\finalGame1\SpriteClasses\obj\x86\Debug\SpriteClasses.pdb

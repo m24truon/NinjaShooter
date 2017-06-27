@@ -1,0 +1,36 @@
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Week06-ShipFighterEnemies - Start.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Week06-ShipFighterEnemies - Start.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies - Start\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.csprojResolveAssemblyReference.cache
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\blueEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\greenEnemy.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipRight.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\shipSprite.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\spaceBackground.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Week06-ShipFighterEnemies - Start.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Week06-ShipFighterEnemies - Start.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\OpenTK.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\SpriteClasses.pdb
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\enemyFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterEnemies\Week06-ShipFighterEnemies - Start\bin\WindowsGL\Debug\Content\Images\playerFireball.png
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.exe
+C:\GAME251W14\Learning_Materials\week06\Week06-ShipFighterSpriteSheets\Week06-ShipFighterEnemies - Start\obj\x86\Debug\Week06-ShipFighterEnemies - Start.pdb
